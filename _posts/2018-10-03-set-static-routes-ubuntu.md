@@ -1,4 +1,3 @@
-# Set static routes in Ubuntu Server
 
 ``` bash
 $ vim /etc/network/interfaces
